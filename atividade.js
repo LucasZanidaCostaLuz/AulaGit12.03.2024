@@ -11,5 +11,5 @@ if (b % 1 != 0 || a % 1 != 0) {
 } else if (a == 0 || b == 0) {
     console.log("operação não realizável, pois algum valor é igual a 0");
 } else {
-    console.log("operação não realizavel, pois algum número é menor que 0");
+    console.log("operação não realizável, pois algum número é menor que 0");
 }
