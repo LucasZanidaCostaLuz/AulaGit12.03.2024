@@ -1,6 +1,6 @@
-let a = 2;
+let a = 2.6;
 
-let b = -10;
+let b = 10;
 
 if (b % 1 != 0 || a % 1 != 0) {
     console.log("operação não realizavel pois algum valor não é inteiro");
