@@ -1,6 +1,6 @@
 let tabuada = -2.5;
 
-let b = -10.3;
+let limite = -10.3;
 
 if (b % 1 != 0 || a % 1 != 0) {
     console.log("operação não realizável pois algum valor não é inteiro");
