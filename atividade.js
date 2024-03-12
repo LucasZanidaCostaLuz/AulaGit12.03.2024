@@ -1,4 +1,4 @@
-let a = 2.6;
+let a = 2;
 
 let b = 10;
 
